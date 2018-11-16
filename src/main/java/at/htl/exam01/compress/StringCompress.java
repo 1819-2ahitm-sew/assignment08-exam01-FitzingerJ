@@ -58,7 +58,7 @@ public class StringCompress {
                     String help = "";
                     help += text.charAt(0);
                     textArray[count] = help;
-                    textArray[count] += help;
+                    textArray[count] += help;asdasd
                 }
                 textArray[count + 1] = "\n";
             /*for (int i = 1; i < text.length(); i++) {
