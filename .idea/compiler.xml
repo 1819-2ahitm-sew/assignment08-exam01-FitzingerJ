@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="1819_2ahitm_sew_exam01" />
         <module name="Exam01" />
+        <module name="exam01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
